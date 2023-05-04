@@ -3,8 +3,12 @@
 #### Group Members:
 - Wyatt Bush
 - Jewel Maldonado
+### Required libraries and Reading for this Project:
+- [The EZO_I2C_Library](https://github.com/Atlas-Scientific/Ezo_I2c_lib)
+- [The Liquid Crystal Library](https://www.arduino.cc/reference/en/libraries/liquidcrystal/)
+- [EZO CO2 Sensor Manual](https://atlas-scientific.com/files/EZO_CO2_Datasheet.pdf)  
 
-#### Inspiration for the project/reason:
+#### Inspiration for the project:
 - <insert details for wyatt's project proposal> 
 
 #### What will the project be used for
@@ -15,7 +19,8 @@
 
 #### Improvements and Inspiration for the future
 - Hardware:  
-In the next iteration we hope to improve the design of the enclosure and use a better display for the output read. We hope to add a fwe components as well such as a button functionality such as changing measurement methods and turning the device on and off, a seperate battery or DC, an SD card port so that the data can be stored onto th eSD card directly, a camera sensor that can take stills of the chemical and with this we would be able to process the data by relating the measurments in ppm to the image results. 
+In the next iteration we hope to improve the design of the enclosure and use a better display for the output read. We hope to add a fwe components as well such as a button functionality such as changing measurement methods and turning the device on and off, a seperate battery or DC, an SD card port so that the data can be stored onto th eSD card directly, a camera sensor that can take stills of the chemical and with this we would be able to process the data by relating the measurments in ppm to the image results.  
+
 - Code:  
 Ability to output data to seperate file and save it to the SD card device attached, improve response speeds/throughput of the data, and reduce latency between the arduino and outptu to the display.
   
