@@ -1,9 +1,25 @@
-## CO2-Sensor-Arduino-Project
+## CS241: CO2 Arduino Sensor Project  
+### Table of Contents
+- [Group Members](#group-members)
+- [Required Libraries and Reading](#required-libraries-and-reading-for-this-project)
+- [Usage](#what-will-the-project-be-used-for)
+- [Approach](#approach-and-final-design)
+- [Future Development](#improvements-and-inspiration-for-the-future)
+- [Components](#hardware-and-components)
 
-#### Group Members:
+
+
+### Group Members:
 - Wyatt Bush
 - Jewel Maldonado
-### Required libraries and Reading for this Project:
+
+#### Hardware and Components:
+- Arduino Uno
+- [ATLUS SCIENTIFIC EZO-UART/I2C CO2 Sensor](https://atlas-scientific.com/probes/co2-sensor/)
+- 16 x 2 LCD 
+- [Plastic Enclosure](https://www.amazon.com/gp/product/B075X17M4T/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&th=1)
+
+#### Required libraries and Reading for this Project:
 - [The EZO_I2C_Library](https://github.com/Atlas-Scientific/Ezo_I2c_lib)
 - [The Liquid Crystal Library](https://www.arduino.cc/reference/en/libraries/liquidcrystal/)
 - [EZO CO2 Sensor Manual](https://atlas-scientific.com/files/EZO_CO2_Datasheet.pdf)  
@@ -24,10 +40,4 @@ In the next iteration we hope to improve the design of the enclosure and use a b
 
 - Code:  
 Ability to output data to seperate file and save it to the SD card device attached, improve response speeds/throughput of the data, and reduce latency between the arduino and output to the display. 
-  
-#### Hardware/Components:
-- Arduino Uno
-- [ATLUS SCIENTIFIC EZO-UART/I2C CO2 Sensor](https://atlas-scientific.com/probes/co2-sensor/)
-- 16 x 2 LCD 
-- [Plastic Enclosure](https://www.amazon.com/gp/product/B075X17M4T/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&th=1)
 
