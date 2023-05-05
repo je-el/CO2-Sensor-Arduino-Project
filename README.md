@@ -1,11 +1,11 @@
 ## CS241: CO2 Arduino Sensor Project  
 ### Table of Contents
 - [Group Members](#group-members)
+- [Components](#hardware-and-components)
 - [Required Libraries and Reading](#required-libraries-and-reading-for-this-project)
 - [Usage](#what-will-the-project-be-used-for)
 - [Approach](#approach-and-final-design)
 - [Future Development](#improvements-and-inspiration-for-the-future)
-- [Components](#hardware-and-components)
 
 
 
