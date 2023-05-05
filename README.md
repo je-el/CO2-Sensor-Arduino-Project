@@ -27,7 +27,7 @@ Ability to output data to seperate file and save it to the SD card device attach
   
 #### Hardware/Components:
 - Arduino Uno
-- [ATLUS SCIENTIFIC UART/I2C CO2 Sensor](https://atlas-scientific.com/probes/co2-sensor/)
+- [ATLUS SCIENTIFIC EZO-UART/I2C CO2 Sensor](https://atlas-scientific.com/probes/co2-sensor/)
 - 16 x 2 LCD 
 - [Plastic Enclosure](https://www.amazon.com/gp/product/B075X17M4T/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&th=1)
-- <finish me>
+<- finish me>
