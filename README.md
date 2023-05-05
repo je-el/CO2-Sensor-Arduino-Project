@@ -10,7 +10,7 @@
 
 #### Inspiration for the project:
 - In support of Wyatt's AGS Project Proposal  
-![PDF IMAGE](imgs/ ASG_WyattBushAdvanced_Visual_Sensor.png)
+(imgs/ ASG_WyattBushAdvanced_Visual_Sensor.png)
 
 #### What will the project be used for
 - This CO2 sensor meter will be used to detect the actual CO2 measurements in parts per million. 
