@@ -9,8 +9,8 @@
 - [EZO CO2 Sensor Manual](https://atlas-scientific.com/files/EZO_CO2_Datasheet.pdf)  
 
 #### Inspiration for the project:
-- In support of Wyatt's Project Proposal
-![...](imgs/ASG Poster Wyatt Bush.pdf)
+- In support of Wyatt's AGS Project Proposal  
+[PDF IMAGE](imgs/ASG Poster Wyatt Bush.pdf)
 
 #### What will the project be used for
 - This CO2 sensor meter will be used to detect the actual CO2 measurements in parts per million. 
