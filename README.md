@@ -9,7 +9,8 @@
 - [EZO CO2 Sensor Manual](https://atlas-scientific.com/files/EZO_CO2_Datasheet.pdf)  
 
 #### Inspiration for the project:
-- <insert details for wyatt's project proposal> 
+- In support of Wyatt's Project Proposal
+![...](imgs/ASG Poster Wyatt Bush.pdf)
 
 #### What will the project be used for
 - This CO2 sensor meter will be used to detect the actual CO2 measurements in parts per million. 
@@ -22,7 +23,7 @@
 In the next iteration we hope to improve the design of the enclosure and use a better display for the output read. We hope to add a fwe components as well such as a button functionality such as changing measurement methods and turning the device on and off, a seperate battery or DC, an SD card port so that the data can be stored onto th eSD card directly, a camera sensor that can take stills of the chemical and with this we would be able to process the data by relating the measurments in ppm to the image results.  
 
 - Code:  
-Ability to output data to seperate file and save it to the SD card device attached, improve response speeds/throughput of the data, and reduce latency between the arduino and outptu to the display.
+Ability to output data to seperate file and save it to the SD card device attached, improve response speeds/throughput of the data, and reduce latency between the arduino and output to the display. 
   
 #### Hardware/Components:
 - Arduino Uno
