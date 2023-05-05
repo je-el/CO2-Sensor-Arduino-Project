@@ -9,7 +9,7 @@
 - [EZO CO2 Sensor Manual](https://atlas-scientific.com/files/EZO_CO2_Datasheet.pdf)  
 
 #### Inspiration for the project:
-- In support of Wyatt's AGS Project Proposal  
+- In support of Wyatt's ASG Project Proposal of an Advance Visual CO2 Sensor.  
 ![imgs/ ASG_WyattBushAdvanced_Visual_Sensor.png](https://github.com/je-el/CO2-Sensor-Arduino-Project/blob/main/imgs/%20ASG_WyattBushAdvanced_Visual_Sensor.png)
 
 #### What will the project be used for
